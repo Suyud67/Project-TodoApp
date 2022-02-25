@@ -135,9 +135,9 @@ h4 {
 
 /* footer */
 footer {
+  margin-top: 4.6rem;
   text-align: center;
-  margin-top: 2rem;
-  padding: 10px 0;
+  padding: 20px 0;
   background-color: #6a5acd;
 }
 /* akhir footer */
